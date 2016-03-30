@@ -24,7 +24,7 @@ comprehensive understanding of how TypoScript works.
 A common TYPO3 CMS workflow used by beginners is to try arbitrary
 properties to objects until things somehow begin to work.
 Understanding how TypoScript works, however, allows you to work more quickly
-and more efficiently with TYPO3 CMS and become.
+and more efficiently with TYPO3 CMS.
 Troubleshooting is easier and time is saved by learning TypoScript properly.
 Otherwise, you risk going through a "hit-or-miss" process.
 
